@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "author": "Evo#9981",
+        "name": "EvoRed",
+        "version": "1.0.0"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "blur_radius": 0,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/751021769275473930\/894152214149480448\/708853.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 1276976413,
+        "background_secondary": 840505368,
+        "statusbar": 1502753280,
+        "mention_highlight": 1258291200,
+        "accent": -7196160
+    },
+    "colors": {},
+    "drawable_tints": {}
+}
